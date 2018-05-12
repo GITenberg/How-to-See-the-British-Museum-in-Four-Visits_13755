@@ -1,0 +1,32 @@
+_repo: How-to-See-the-British-Museum-in-Four-Visits_13755
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jerrold, Blanchard
+    aliases:
+    - Fin-Bec
+    - Jerrold, W. Blanchard (William Blanchard)
+    - Jerrold, William Blanchard
+    birthdate: 1826
+    deathdate: 1884
+    gutenberg_agent_id: '5204'
+    url: http://www.gutenberg.org/2009/agents/5204
+    wikipedia: http://en.wikipedia.org/wiki/William_Blanchard_Jerrold
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2004-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'British Museum'
+title: How to See the British Museum in Four Visits
+url: http://www.gutenberg.org/ebooks/13755
