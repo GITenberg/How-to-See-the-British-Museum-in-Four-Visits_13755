@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5204
     wikipedia: http://en.wikipedia.org/wiki/William_Blanchard_Jerrold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13755#How-to-See-the-British-Museum-in-Four-Visits
 gutenberg_bookshelf: Art
 gutenberg_issued: '2004-10-15'
 gutenberg_type: Text
